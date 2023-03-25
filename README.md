@@ -1,6 +1,6 @@
 # 僕のDiscordBotまとめ
 
-Bot作成者
+まじ疲れた
 
 
 ## ここで管理してるDIscordBot一覧(ソースコードは無いよ)
