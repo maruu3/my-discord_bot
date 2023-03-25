@@ -19,4 +19,4 @@ Bot作成者
 
 ## 下の所に飛んでね
 
- - [コマンド](https://docs.google.com/document/d/1gfN4c7XaAbisr7usnkDfuyVTlJ-XbAOnZ1iCVjGXn3s/edit)
+ - [コマンド](https://docs.google.com/document/d/1gfN4c7XaAbisr7usnkDfuyVTlJ-XbAOnZ1iCVjGXn3s/edit?usp=sharing)
